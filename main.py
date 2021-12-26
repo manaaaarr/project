@@ -3,10 +3,7 @@ from base_game import *
 import ai
 import othello_board
 
-
-
 base_game_init(board_size)
-
 
 depth =1
 
